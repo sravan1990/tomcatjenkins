@@ -12,10 +12,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Dinesh Reddy Software Solutions Pvt Ltd.</h1>
+<h1 align="center">Welcome to Prasad Naidu Software Solutions Pvt Ltd.</h1>
 <h1 align="center">
 Prasad SOFTWARE SOLUTIONS---	100 % Job Guarntee DevOps Program will start on Sep 15th 7 PM IST - Online , and on Sep 21st 9 AM we have class room demo.
-	Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
+	Very Good Training center for DevOps in Marathahalli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -23,7 +23,7 @@ Prasad SOFTWARE SOLUTIONS---	100 % Job Guarntee DevOps Program will start on Sep
 
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions Pvt Ltd, 
+		Prasad Software Solutions Pvt Ltd, 
 		SGR Dental college Road,
 		Martha Halli,Opp To Madhurai Iddly House
 		Bangalore.
@@ -34,8 +34,8 @@ Prasad SOFTWARE SOLUTIONS---	100 % Job Guarntee DevOps Program will start on Sep
 <hr>
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Prasad Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Prasad Technologies</a> </small></p>
 
 </body>
 </html>
