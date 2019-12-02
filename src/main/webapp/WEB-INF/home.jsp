@@ -12,7 +12,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Prasad Naidu Software Solutions Pvt Ltd.</h1>
+<h1 align="center">Welcome to Prasad Software Solutions Pvt Ltd.</h1>
 <h1 align="center">
 Prasad SOFTWARE SOLUTIONS---	100 % Job Guarntee DevOps Program will start on Sep 15th 7 PM IST - Online , and on Sep 21st 9 AM we have class room demo.
 	Very Good Training center for DevOps in Marathahalli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
