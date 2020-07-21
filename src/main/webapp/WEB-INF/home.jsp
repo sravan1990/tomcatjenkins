@@ -35,7 +35,7 @@ Prasad Challagondla SOFTWARE SOLUTIONS---	100 % Job Guarntee DevOps Program will
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <p align=center>Prasad Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Prasad Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by Prasad Technologies</a> </small></p>
 
 </body>
 </html>
